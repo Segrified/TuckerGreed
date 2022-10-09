@@ -1,6 +1,6 @@
 # TuckerGreed
 
-#A game where you control a ittle ship to move around and collect gems.
+#A game where you control a little ship to move around and collect gems.
 
 #Collecting a gem (*) will gain you a point
 #Collecting a rock (O) will lose you a point
